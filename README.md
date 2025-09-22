@@ -4,8 +4,9 @@
 
 ---
 ## Group Info
-* 1511-8670 Jonnala Harshavardhan Reddy
-* 4453-0897 Chittela venkata sai Tarun Reddy
+* 1511-8670 Harshavardhan Reddy Jonnala 
+* 4453-0897 Venkata Sai Tarun Reddy Chittela 
+Github Repo (https://github.com/harsha-2003/dosp-project2.git)
 
 ---
 ## Explanation
