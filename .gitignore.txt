@@ -1,0 +1,68 @@
+# Build artifacts# Build artifacts
+
+build/build/
+
+_gleam_artefacts/_gleam_artefacts/
+
+ebin/ebin/
+
+*.beam*.beam
+
+*.cache*.cache
+
+*.cache_meta*.cache_meta
+
+*.cache_warnings*.cache_warnings
+
+
+
+# Lock files# Lock files
+
+*.lock*.lock
+
+
+
+# OS files# OS files
+
+.DS_Store.DS_Store
+
+.DS_Store?.DS_Store?
+
+._*._*
+
+.Spotlight-V100.Spotlight-V100
+
+.Trashes.Trashes
+
+ehthumbs.dbehthumbs.db
+
+Thumbs.dbThumbs.db
+
+
+
+# IDE files# IDE files
+
+.vscode/.vscode/
+
+.idea/.idea/
+
+*.swp*.swp
+
+*.swo*.swo
+
+*~*~
+
+
+
+# Zip files# Zip files
+
+*.zip*.zip
+
+
+
+# Gleam specific# Gleam specific
+
+gleam_versiongleam_version
+
+# Qodo files
+.qodo/
